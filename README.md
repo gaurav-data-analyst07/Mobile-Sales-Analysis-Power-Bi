@@ -147,7 +147,6 @@ Mobile-Sales-Analysis-PowerBI/
 4. Use the slicers to filter the data.
 5. Analyze the sales performance and business insights.
 
-> **Note:** Power BI Desktop is required to open the `.pbix` file.
 
 ---
 
