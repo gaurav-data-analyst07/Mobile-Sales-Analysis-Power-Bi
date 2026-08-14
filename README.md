@@ -14,6 +14,14 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ![Mobile Sales Dashboard](Screenshots/01_Main_Sales_Dashboard.png)
 
+### Same Period Last Year Analysis
+
+![Same Period Last Year Analysis](Screenshots/02_Same_Period_Last_Year_Analysis.png)
+
+### MTD Sales Analysis
+
+![MTD Sales Analysis](Screenshots/03_MTD_Sales_Analysis.png)
+
 ---
 
 ## 🎯 Business Objectives
@@ -132,7 +140,9 @@ Mobile-Sales-Analysis-PowerBI/
 │   └── Mobile_Sales_Dashboard.pbix
 │
 ├── Screenshots/
-│   └── Mobile_Sales_Dashboard.png
+├── 01_Main_Sales_Dashboard.png
+├── 02_Same_Period_Last_Year_Analysis.png
+└── 03_MTD_Sales_Analysis.png
 │
 └── README.md
 ```
