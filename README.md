@@ -16,7 +16,7 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ### Same Period Last Year Analysis
 
-![Same Period Last Year Analysis](Screenshots/02_Same_Period_Last_Year_Analysis.png)
+![Same Period Last Year Analysis](Screenshots/02_Same_Period_Last_Year.png)
 
 ### MTD Sales Analysis
 
